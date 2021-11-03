@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamerkaUSB", "KamerkaUSB\KamerkaUSB.csproj", "{71CB76C0-7E2C-455D-A504-0960D911500B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71CB76C0-7E2C-455D-A504-0960D911500B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CB76C0-7E2C-455D-A504-0960D911500B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CB76C0-7E2C-455D-A504-0960D911500B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CB76C0-7E2C-455D-A504-0960D911500B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F78851-ABC8-4806-A4AA-C334F2E90124}
+	EndGlobalSection
+EndGlobal
